@@ -1,1 +1,1 @@
-test app to go along with complete ruby on rails course
+Alpha blog application made to follow along with The Complete Ruby on Rails Developer Course on Udemy
